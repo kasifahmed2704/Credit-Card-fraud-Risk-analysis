@@ -116,7 +116,7 @@ Contains:
 ---
 
 ## ⭐ Final Note
-If you found this project insightful, ⭐ the repository and connect with me on [LinkedIn](https://www.linkedin.com/).  
+If you found this project insightful, ⭐ the repository and connect with me on [LinkedIn](https://www.linkedin.com/in/kasif-ahmed2704/).  
 I’m open to discussions, feedback, and collaborations in analytics & BI.
 
 ---
